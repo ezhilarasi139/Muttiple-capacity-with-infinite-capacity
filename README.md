@@ -8,18 +8,16 @@ Visual components and Python
 
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
-
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
 ## Experiment:
 ![277122444-13c63dbb-a295-4ba7-8c8a-aabc653bf277](https://github.com/PriyankaAnnadurai/Muttiple-capacity-with-infinite-capacity/assets/118351569/a0cae3a3-571b-45c9-a21f-eaf77ad1019e)
 
 ![277122464-2c5cd0d3-92d1-41d9-8173-caa4f5e7ea35](https://github.com/PriyankaAnnadurai/Muttiple-capacity-with-infinite-capacity/assets/118351569/adb865fd-ace7-401d-911a-c728300453f4)
-## Program
+## Program :
 ### Developed by : Ezhilarasi N
 ### Register No : 212224040088
 ```
